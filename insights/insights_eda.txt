@@ -1,0 +1,18 @@
+================================================================================
+INSIGHTS DA ANÁLISE EXPLORATÓRIA DE DADOS (EDA)
+================================================================================
+
+Total de clientes analisados: 100,000
+Taxa de inadimplência: 19.2%
+Variáveis numéricas: 12
+Variáveis categóricas: 4
+Valores nulos no dataset: 0
+Duplicatas encontradas: 0
+
+Top 5 Variáveis Mais Relacionadas à Inadimplência (Correlação):
+--------------------------------------------------------------------------------
+historico_atraso_90_dias       | Correlação: 0.174
+utilizacao_limite_cartao       | Correlação: 0.047
+numero_dependentes             | Correlação: 0.022
+id_cliente                     | Correlação: 0.004
+idade                          | Correlação: 0.002
