@@ -1,0 +1,21 @@
+threshold,categoria,valor,percentual
+0.3,TN (Verdadeiro Negativo),20758,0.6919333333333333
+0.3,FP (Falso Positivo),3481,0.11603333333333334
+0.3,FN (Falso Negativo),2949,0.0983
+0.3,TP (Verdadeiro Positivo),2812,0.09373333333333334
+0.4,TN (Verdadeiro Negativo),22666,0.7555333333333333
+0.4,FP (Falso Positivo),1573,0.05243333333333333
+0.4,FN (Falso Negativo),4097,0.13656666666666667
+0.4,TP (Verdadeiro Positivo),1664,0.055466666666666664
+0.5,TN (Verdadeiro Negativo),23567,0.7855666666666666
+0.5,FP (Falso Positivo),672,0.0224
+0.5,FN (Falso Negativo),4859,0.16196666666666668
+0.5,TP (Verdadeiro Positivo),902,0.030066666666666665
+0.6,TN (Verdadeiro Negativo),23970,0.799
+0.6,FP (Falso Positivo),269,0.008966666666666666
+0.6,FN (Falso Negativo),5331,0.1777
+0.6,TP (Verdadeiro Positivo),430,0.014333333333333333
+0.7,TN (Verdadeiro Negativo),24149,0.8049666666666667
+0.7,FP (Falso Positivo),90,0.003
+0.7,FN (Falso Negativo),5610,0.187
+0.7,TP (Verdadeiro Positivo),151,0.005033333333333333
