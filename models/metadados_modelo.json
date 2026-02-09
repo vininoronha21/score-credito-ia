@@ -1,0 +1,39 @@
+{
+    "modelo": "Logistic Regression",
+    "metricas": {
+        "recall": 0.669501822600243,
+        "auc_roc": 0.6668241253336711,
+        "f1_score": 0.3913352272727273,
+        "precision": 0.2764676367285499,
+        "accuracy": 0.6000666666666666
+    },
+    "validacao_cruzada": {
+        "recall_mean": 0.7099383068586305,
+        "recall_std": 0.008206100743127602,
+        "auc_mean": 0.7706316502751643,
+        "auc_std": 0.004899481004677875
+    },
+    "features": [
+        "idade",
+        "genero",
+        "estado_civil",
+        "escolaridade",
+        "estado",
+        "renda_anual",
+        "valor_patrimonio",
+        "possui_imovel_proprio",
+        "possui_carro",
+        "ocupacao",
+        "numero_dependentes",
+        "tempo_emprego_atual",
+        "score_serasa_externo",
+        "utilizacao_limite_cartao",
+        "historico_atraso_90_dias"
+    ],
+    "threshold_padrao": 0.5,
+    "data_treino": "2026-02-06 21:51:59",
+    "total_treino": 70000,
+    "total_teste": 30000,
+    "taxa_inadimplencia_treino": 0.19202857142857144,
+    "usa_normalizacao": true
+}
