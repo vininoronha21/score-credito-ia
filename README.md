@@ -282,3 +282,7 @@ Desenvolvido por **Vinícius Forte**
 - 🐙 GitHub: [vininoronha21](https://github.com/vininoronha21)
 - 💼 LinkedIn: [Vinícius Noronha](https://linkedin.com/in/viniciusnoronha)
 - 📧 Email: contatovininoronha@gmail.com
+
+---
+
+**Nota:** Para a versão em Inglês, consulte [README-EN.md](README-EN.md)
