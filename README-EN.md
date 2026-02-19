@@ -20,6 +20,10 @@ The pipeline encompasses:
 
 **Practical application:** Clients classified as high-risk are routed to detailed manual analysis, while low-risk clients proceed through automated workflow.
 
+## 🖥️ Dashboard
+
+<img src="assets/dashboard_rf.jpeg" width="1000">
+
 ## 📈 Model Performance
 
 ### Logistic Regression (Selected Model)
@@ -33,12 +37,16 @@ The pipeline encompasses:
 | **Precision** | 27.65% | Screening model (high recall priority) |
 | **Accuracy**  | 60.01% | Overall accuracy                       |
 
+<img src="assets/03_screenshots/img11.png" width="1000">
+
 ### Model Comparison (Default Threshold = 0.5)
 
 | Model                         | AUC-ROC | Recall | Precision |
 | ----------------------------- | ------- | ------ | --------- |
 | **Logistic Regression** | 0.775   | 15.7%  | 57.3%     |
 | **Random Forest**       | 0.856   | 77.8%  | 43.5%     |
+
+<img src="assets/03_screenshots/img12.png" width="1000">
 
 **Decision rationale:** Despite Random Forest achieving superior metrics in some scenarios, Logistic Regression was prioritized for:
 
@@ -49,6 +57,8 @@ The pipeline encompasses:
 * Better fit for regulated credit environments
 
 ## 🔬 Key Insights
+
+<img src="assets/02_screenshots/img9.png" width="600">
 
 ### Top 3 Most Important Features
 
@@ -248,6 +258,8 @@ Open Power BI Desktop and import CSVs from `powerbi/` folder:
 | 0.30      | Aggressive   | 44.7%     | 48.8%  |
 | 0.50      | Balanced     | 57.3%     | 15.7%  |
 | 0.70      | Conservative | 62.7%     | 2.6%   |
+
+<img src="assets/03_screenshots/img13.png" width="1000">
 
 ## 🔄 Roadmap
 
